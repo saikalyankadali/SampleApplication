@@ -1,0 +1,6 @@
+@PagerDutySample_HostAddress = http://localhost:5153
+
+GET {{PagerDutySample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
